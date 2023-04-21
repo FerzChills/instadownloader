@@ -16,7 +16,8 @@
     ======================================
     $apt update
     $apt upgrade
-    $apt install python
+    $apt install bash
     cd instadownloader
-    pip install instaloader
-    python3 ID.py
+    bash run.sh
+ https://img.co/
+ 
