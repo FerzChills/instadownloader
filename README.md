@@ -19,5 +19,5 @@
     $apt install bash
     cd instadownloader
     bash run.sh
-    [![me.jpg](https://i.postimg.cc/44DC0x6X/me.jpg)](https://postimg.cc/8smnJDXY)
+ [![me.jpg](https://i.postimg.cc/44DC0x6X/me.jpg)](https://postimg.cc/8smnJDXY)
  
