@@ -1,5 +1,5 @@
-# Python code obfuscated by www.development-tools.net 
- 
+#DONT RECODE BRUHHHH
+#IM FERZCHILLS AGES?
 
 import base64, codecs
 magic = 'aW1wb3J0IG9zCmltcG9ydCBpbnN0YWxvYWRlcgoKI1ZhcmlhYmxlIFlhbmcgRGkgR3VuYWthbiBVbnR1ayBNZW5nYW1iaWwgSW5wdXQgRGF0YSBEYXJpIEluc3RhZ3JhbQpvcy5zeXN0ZW0oImNsZWFyIikKcHJpbnQoIuKVu+KUj+KUk+KVu+KUj+KUgeKUk+KVuuKUs+KVuOKUj+KUgeKUk+KVuuKUs+KUk+KUj+KUgeKUk+KVuyDilbvilI/ilJPilbvilbsgIOKUj+KUgeKUk+KUj+KUgeKUk+KVuuKUs+KUk+KUj+KUgeKVuOKUj+KUgeKUkyIpCnByaW50KCLilIPilIPilJfilKvilJfilIHilJMg4pSDIOKUo+KUgeKUqyDilIPilIPilIMg4pSD4pSD4pW74pSD4pSD4pSX4pSr4pSDICDilIMg4pSD4pSj4pSB4pSrIOKUg+KUg+KUo+KVu'
